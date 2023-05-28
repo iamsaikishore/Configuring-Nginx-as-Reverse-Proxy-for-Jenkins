@@ -223,6 +223,8 @@ Now go and refresh the page, you can see that 'jenkins.kishq.co' was SSL Encrytp
 
 Hurrayyyyyyyyy! We have successfully configured nginx as reverse proxy for jenkins with SSL.
 
+[My Blog](https://iamsaikishore.hashnode.dev/configuring-nginx-as-reverse-proxy-for-jenkins)
+
 [Documentation](https://www.jenkins.io/doc/book/system-administration/reverse-proxy-configuration-with-jenkins/reverse-proxy-configuration-nginx/)
 
 [Youtube](https://www.youtube.com/watch?v=yixMeJGtLFk)
